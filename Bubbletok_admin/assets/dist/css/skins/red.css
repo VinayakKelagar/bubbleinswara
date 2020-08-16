@@ -1,0 +1,129 @@
+/*-----Common Style---------*/
+a:hover {
+    color:#e80000;
+}
+.pr-thumb-img tooltip tip {
+    background:#e80000;
+    color:rgba(255,255,255,0.8);
+}
+.pr-thumb-img tooltip._top:not(._left):not(._right) tip tip-arrow {
+    border-top-color:#e80000;
+}
+@media (min-width: 992px) { 
+    #mainNav.navbar-light .navbar-collapse .navbar-sidenav li.active a.nav-link{
+		background: #e80000;
+		background: -moz-linear-gradient(left, #e80000 0%, #d20000 100%);
+		background: -webkit-linear-gradient(left, #e80000 0%,#d20000 100%);
+		background: linear-gradient(to right, #e80000 0%,#d20000 100%);
+		color:#ffffff;
+		opacity: 1;
+	}
+	
+	#mainNav.navbar-light .navbar-collapse .navbar-sidenav li.active a.nav-link:hover, #mainNav.navbar-light .navbar-collapse .navbar-sidenav li.active a.nav-link:focus{
+	background: #e80000;
+	background: -moz-linear-gradient(left, #e80000 0%, #d20000 100%);
+	background: -webkit-linear-gradient(left, #e80000 0%,#d20000 100%);
+	background: linear-gradient(to right, #e80000 0%,#d20000 100%);
+	color:#ffffff;
+    opacity: 1;
+	}
+	
+	#mainNav.navbar-light .navbar-collapse .navbar-sidenav li a.nav-link:hover, #mainNav.navbar-light .navbar-collapse .navbar-sidenav li a.nav-link:focus{
+	background: #e80000;
+	background: -moz-linear-gradient(left, #e80000 0%, #d20000 100%);
+	background: -webkit-linear-gradient(left, #e80000 0%,#d20000 100%);
+	background: linear-gradient(to right, #e80000 0%,#d20000 100%);
+	color:#ffffff;
+    opacity:1;
+	}
+}
+
+.theme-bg{
+background-color:#e80000;
+}
+.theme-cl{
+color:#e80000;
+}
+.br-theme{
+	border-color:#e80000 !important
+}
+.theme-btn, .theme-btn:hover, .theme-btn:focus{
+	border:1px solid #e80000 !important;
+	background:#e80000;
+	color:#ffffff !important;
+}
+.gredient-cl{
+background: #e80000;
+background: -moz-linear-gradient(left, #e80000 0%, #d20000 100%);
+background: -webkit-linear-gradient(left, #e80000 0%,#d20000 100%);
+background: linear-gradient(to right, #e80000 0%,#d20000 100%);
+-webkit-background-clip: text;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+text-fill-color: transparent;
+}
+.gredient-bg{
+background: #e80000;
+background: -moz-linear-gradient(left, #e80000 0%, #d20000 100%);
+background: -webkit-linear-gradient(left, #e80000 0%,#d20000 100%);
+background: linear-gradient(to right, #e80000 0%,#d20000 100%);
+}
+.gredient-btn, .gredient-btn:hover, .gredient-btn:focus{
+color:#ffffff;
+border:none;
+background: #e80000 !important;
+background: -moz-linear-gradient(left, #e80000 0%, #d20000 100%) !important;
+background: -webkit-linear-gradient(left, #e80000 0%,#d20000 100%) !important;
+background: linear-gradient(to right, #e80000 0%,#d20000 100%) !important;
+}
+
+/*=======================================
+All Element Color
+======================================*/
+/*--------Team---------*/
+.our-team:hover, .our-team:focus {
+    border-color:#e80000;
+}
+
+/*-------- Pricing ---------*/
+.pricingTable:hover {
+    border: 2px solid #e80000;
+}
+.pricingTable .price-value i {
+    color:#e80000;
+}
+.pricingTable .btn-block {
+    background: #e80000;
+}
+.pricingTable:hover .btn-block {
+    color:#e80000;
+}
+
+/*-------- Accordion ---------*/
+.accordion-stylist .panel-title a:before, .accordion-stylist .panel-title a.collapsed:before {
+    background:#e80000;
+}
+.accordion-stylist .panel-title a.collapsed:before {
+    background: #f2f7fb;
+    color: #b7cde4;
+}
+
+/*-------- Tab ---------*/
+.tab .nav-tabs li a:hover,
+.tab .nav-tabs li.active a{
+    background:#e80000;
+}
+/*-------- Ecommerce ---------*/
+.uc_soft_product_box .uc_box_product .uc_product_col .uc_product_details .uc_view_cart a:hover {
+    color:#e80000;
+}
+
+/*------ Checkbox & Radio Button --------*/
+.custom-checkbox input[type="checkbox"]:checked + label:before {
+	border-color:#e80000;
+	background:#e80000;
+}
+.custom-radio [type="radio"]:checked + label:after,
+.custom-radio [type="radio"]:not(:checked) + label:after {
+    background:#e80000;
+}

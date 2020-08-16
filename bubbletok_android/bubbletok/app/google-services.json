@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "871654757654",
+    "firebase_url": "https://inswara-4bfbd.firebaseio.com",
+    "project_id": "inswara-4bfbd",
+    "storage_bucket": "inswara-4bfbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871654757654:android:2a6a63bcf32b62c4f2ec37",
+        "android_client_info": {
+          "package_name": "com.dinosoftlabs.tictic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871654757654-eoqq7fhpemgpk4lcjv6179r8hrdp3qe9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3QlOtsOblDxr9P0DWHoJZu_51YlyN73A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871654757654-t13utqb3gehokru6k8l23ch1n7nnm2k9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871654757654:android:0784f0aa53cc3aeef2ec37",
+        "android_client_info": {
+          "package_name": "com.retrytech.vilo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871654757654-eoqq7fhpemgpk4lcjv6179r8hrdp3qe9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3QlOtsOblDxr9P0DWHoJZu_51YlyN73A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871654757654-t13utqb3gehokru6k8l23ch1n7nnm2k9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
